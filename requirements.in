@@ -1,0 +1,5 @@
+flask
+pytest
+flask-restx
+pip-tools
+flask_sqlalchemy
